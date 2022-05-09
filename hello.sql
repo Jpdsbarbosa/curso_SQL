@@ -1,0 +1,1 @@
+-- repositorio destinado para os estudos de SQL
